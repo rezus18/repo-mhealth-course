@@ -1,5 +1,2 @@
-repo1
+#Repo mhealth
  
-this is a practice project for the Mobile Apps for Healthcare course
-## Topics
-- ECG signal processing
